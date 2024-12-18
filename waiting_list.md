@@ -3,3 +3,4 @@
 - [Off-Dynamics Reinforcement Learning via Domain Adaptation and Reward Augmented Imitation](https://arxiv.org/abs/2411.09891)
 - [Bridging the Resource Gap: Deploying Advanced Imitation Learning Models onto Affordable Embedded Platforms](https://arxiv.org/abs/2411.11406)
 - [Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2411.01396)
+- [Efficient Online Reinforcement Learning Fine-Tuning Need Not Retain Offline Data](https://arxiv.org/abs/2412.07762)

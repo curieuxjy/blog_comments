@@ -6,6 +6,8 @@
 - [Efficient Online Reinforcement Learning Fine-Tuning Need Not Retain Offline Data](https://arxiv.org/abs/2412.07762)
 - [Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias](https://arxiv.org/abs/2310.08558)
 - [Policy Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone](https://arxiv.org/abs/2412.06685)
+- [TD-M(PC)^2: Improving Temporal Difference MPC Through Policy Constraint](https://arxiv.org/abs/2502.03550)
+
 
 # code
 - [NVIDIA Isaac ROS](https://nvidia-isaac-ros.github.io/)
